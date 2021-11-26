@@ -41,7 +41,7 @@ function markImage(images) {
 
 btnElem.classList.add('hidden');
 let page = 1;
-const per_page = 20;
+const per_page = 40;
 let inputName = '';
 let gallery = {};
 formElem.addEventListener('submit', onFormSubmit);
